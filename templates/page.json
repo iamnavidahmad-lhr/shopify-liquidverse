@@ -1,0 +1,255 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "custom_css": [],
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_JcEggK": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_ifdtYU": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_iT9Kcp": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_EwKR9f": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ifdtYU",
+        "text_iT9Kcp",
+        "buttons_EwKR9f"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/ruffled-orange-petals-of-a-flower-about-to-bloom.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "image_behavior": "ambient",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "multicolumn_3WzBne": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_acmQCr": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PBEpkg": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_TQDhDP": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_acmQCr",
+        "column_PBEpkg",
+        "column_TQDhDP"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "Button label",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_iN3f3C": {
+      "type": "multirow",
+      "blocks": {
+        "row_MmHFDr": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/blue-formal-suit-yellow-wall.jpg",
+            "caption": "CEO",
+            "heading": "M. Anwar",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_ErcmhT": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/he-makes-her-smile.jpg",
+            "caption": "Marketing Manager",
+            "heading": "Sobia Shan",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_WzULpj": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/women-in-business-meeting.jpg",
+            "caption": "HR",
+            "heading": "Safina Khan",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_MmHFDr",
+        "row_ErcmhT",
+        "row_WzULpj"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "image_layout": "alternate-left",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_TdLfWF": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_UGHHiU": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What we do?",
+            "icon": "carrot",
+            "row_content": "<p>We are specialist in Furniture</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_b6FmGp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where are we Located?",
+            "icon": "map_pin",
+            "row_content": "<p>We are located in Lahore Pakistan</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_pcRLTR": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What Kind of Furniture we deal?",
+            "icon": "leather",
+            "row_content": "<p>We deal in all Kind of Furniture for Houses and Offices</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_kzm3LQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can we deal in Customized Furniture?",
+            "icon": "lock",
+            "row_content": "<p>Yes we can create your customize furniture for your requirements</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_UGHHiU",
+        "collapsible_row_b6FmGp",
+        "collapsible_row_pcRLTR",
+        "collapsible_row_kzm3LQ"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "Who we are?",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "container_color_scheme": "scheme-1",
+        "color_scheme": "scheme-3",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_JcEggK",
+    "multicolumn_3WzBne",
+    "multirow_iN3f3C",
+    "collapsible_content_TdLfWF"
+  ]
+}

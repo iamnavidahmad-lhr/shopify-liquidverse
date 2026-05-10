@@ -1,0 +1,231 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_wdckD6": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_N89fqJ": {
+          "type": "slide",
+          "name": "Slide-05",
+          "settings": {
+            "image": "shopify://shop_images/interior-decor-shelving-with-ceramic-art.jpg",
+            "image_overlay_opacity": 30,
+            "heading": "Your Heading Here",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-9949fdee-1ebd-4caf-8286-f92eb304bec3"
+          }
+        },
+        "slide_4Ai8Jz": {
+          "type": "slide",
+          "name": "Slide-04",
+          "settings": {
+            "image": "shopify://shop_images/grey-and-gold-living-room-interior-design.jpg",
+            "image_overlay_opacity": 30,
+            "heading": "Your Heading Here",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-9949fdee-1ebd-4caf-8286-f92eb304bec3"
+          }
+        },
+        "slide_PNhE8E": {
+          "type": "slide",
+          "name": "Slide-03",
+          "settings": {
+            "image": "shopify://shop_images/modern-updated-kitchen-interior-home.jpg",
+            "image_overlay_opacity": 30,
+            "heading": "Your Heading Here",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-9949fdee-1ebd-4caf-8286-f92eb304bec3"
+          }
+        },
+        "slide_qQAxrp": {
+          "type": "slide",
+          "name": "Slide-02",
+          "settings": {
+            "image": "shopify://shop_images/modern-white-tiled-kitchen.jpg",
+            "image_overlay_opacity": 30,
+            "heading": "Your Heading Here",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": true,
+            "show_text_box": true,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-9949fdee-1ebd-4caf-8286-f92eb304bec3"
+          }
+        },
+        "slide_VjTNc9": {
+          "type": "slide",
+          "name": "Slide-01",
+          "settings": {
+            "image": "shopify://shop_images/open-plan-home-with-spiral-staircase.jpg",
+            "image_overlay_opacity": 30,
+            "heading": "Your Heading Here",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-9949fdee-1ebd-4caf-8286-f92eb304bec3"
+          }
+        }
+      },
+      "block_order": [
+        "slide_N89fqJ",
+        "slide_4Ai8Jz",
+        "slide_PNhE8E",
+        "slide_qQAxrp",
+        "slide_VjTNc9"
+      ],
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "ambient",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "all",
+        "products_to_show": 3,
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 3,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-2",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_HFmDhq": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_reXNKY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_XRxBtd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_tF6wty": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_reXNKY",
+        "text_XRxBtd",
+        "button_tF6wty"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/living-room-brick-wall.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "ambient",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-3",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_blog_6jX9Gx": {
+      "type": "featured-blog",
+      "name": "t:sections.featured-blog.presets.name",
+      "settings": {
+        "blog": "",
+        "post_limit": 3,
+        "heading": "Blog posts",
+        "heading_size": "h1",
+        "columns_desktop": 3,
+        "show_view_all": true,
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "slideshow_wdckD6",
+    "featured_collection",
+    "image_with_text_HFmDhq",
+    "featured_blog_6jX9Gx"
+  ]
+}
