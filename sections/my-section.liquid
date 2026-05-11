@@ -1,0 +1,33 @@
+{% style %}
+  .my_section {
+    background-color: {{ section.settings.bg_color }};
+  }
+{% endstyle %}
+
+<h1 class="my_section">{{ section.settings.title }}</h1>
+
+{% schema %}
+{
+  "name": "My Section",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Title",
+      "default": "Welcome to my store!"
+    },
+    {
+        "type": "color",
+        "id": "bg_color",
+        "label": "Background Color",
+        "default": "#f41111"
+    }
+  ],
+
+  "presets": [
+    {
+      "name": "My Setion"
+    }
+  ]
+}
+{% endschema %}
