@@ -1,6 +1,9 @@
 {% style %}
   .my_section {
     background-color: {{ section.settings.bg_color }};
+    color: {{ section.settings.text_color }};
+    padding: 20px;
+    text-align: center;
   }
 {% endstyle %}
 
@@ -21,7 +24,13 @@
         "id": "bg_color",
         "label": "Background Color",
         "default": "#f41111"
-    }
+    },
+    {
+    "type": "color",
+    "id": "text_color",
+    "label": "Text Color",
+    "default": "#ffffff"
+}
   ],
 
   "presets": [
